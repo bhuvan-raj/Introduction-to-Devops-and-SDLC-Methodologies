@@ -13,8 +13,6 @@
 * Spiral Model
 * Incremental Model
 * Iterative Model
-* Prototyping Model
 * Big Bang Model
-* Rapid Application Development (RAD) Model
 * DevOps Model
 
